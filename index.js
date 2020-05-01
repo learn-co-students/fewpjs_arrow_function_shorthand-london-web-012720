@@ -8,5 +8,5 @@ function divide() {
 const square = x => x ** 2
 
 
-const add = (x, y) => (x + y)
+const add = (x, y) => x + y
 
